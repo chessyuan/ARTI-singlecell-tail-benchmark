@@ -1,0 +1,97 @@
+condition_id,cell_name,drug,n_full,delta_disp_full,delta_disp_downsampled_30
+plate6_A498_Raltitrexed,A498,Raltitrexed,50,-0.497,1.314
+plate14_A498_Raltitrexed,A498,Raltitrexed,55,1.327,3.752
+plate4_A498_Vinblastine_(sulfate),A498,Vinblastine (sulfate),72,-0.516,3.274
+plate14_A498_Vinblastine_(sulfate),A498,Vinblastine (sulfate),93,1.058,4.909
+plate14_A549_Adagrasib,A549,Adagrasib,61,2.686,6.058
+plate14_A549_Raltitrexed,A549,Raltitrexed,67,1.202,4.642
+plate4_A549_Vinblastine_(sulfate),A549,Vinblastine (sulfate),51,2.456,5.516
+plate14_A549_Vinblastine_(sulfate),A549,Vinblastine (sulfate),91,1.618,6.332
+plate14_A-172_Adagrasib,A-172,Adagrasib,51,2.874,5.14
+plate14_A-172_Raltitrexed,A-172,Raltitrexed,71,1.438,4.781
+plate4_A-172_Vinblastine_(sulfate),A-172,Vinblastine (sulfate),65,0.673,4.233
+plate14_A-172_Vinblastine_(sulfate),A-172,Vinblastine (sulfate),106,0.381,5.103
+plate6_AsPC-1_Raltitrexed,AsPC-1,Raltitrexed,56,-1.52,1.383
+plate14_AsPC-1_Raltitrexed,AsPC-1,Raltitrexed,70,0.933,4.592
+plate4_AsPC-1_Vinblastine_(sulfate),AsPC-1,Vinblastine (sulfate),60,-0.385,3.014
+plate14_AsPC-1_Vinblastine_(sulfate),AsPC-1,Vinblastine (sulfate),87,0.061,4.908
+plate6_C32_Raltitrexed,C32,Raltitrexed,55,-2.386,0.346
+plate14_C32_Raltitrexed,C32,Raltitrexed,51,2.25,4.951
+plate14_C32_Vinblastine_(sulfate),C32,Vinblastine (sulfate),80,1.363,5.585
+plate14_CFPAC-1_Adagrasib,CFPAC-1,Adagrasib,53,1.275,4.145
+plate14_CFPAC-1_Raltitrexed,CFPAC-1,Raltitrexed,60,0.82,4.008
+plate4_CFPAC-1_Vinblastine_(sulfate),CFPAC-1,Vinblastine (sulfate),50,0.568,3.321
+plate14_CFPAC-1_Vinblastine_(sulfate),CFPAC-1,Vinblastine (sulfate),73,0.912,4.344
+plate14_HEC-1-A_Adagrasib,HEC-1-A,Adagrasib,50,3.015,5.467
+plate4_HEC-1-A_Raltitrexed,HEC-1-A,Raltitrexed,53,0.396,2.965
+plate6_HEC-1-A_Raltitrexed,HEC-1-A,Raltitrexed,58,-2.967,-0.813
+plate14_HEC-1-A_Raltitrexed,HEC-1-A,Raltitrexed,78,1.267,5.479
+plate4_HEC-1-A_Vinblastine_(sulfate),HEC-1-A,Vinblastine (sulfate),57,1.224,4.173
+plate14_HEC-1-A_Vinblastine_(sulfate),HEC-1-A,Vinblastine (sulfate),105,0.057,5.039
+plate14_HOP62_Adagrasib,HOP62,Adagrasib,67,2.229,5.869
+plate4_HOP62_Almonertinib_(hydrochloride),HOP62,Almonertinib (hydrochloride),54,0.216,3.036
+plate6_HOP62_Raltitrexed,HOP62,Raltitrexed,53,-0.401,1.585
+plate14_HOP62_Raltitrexed,HOP62,Raltitrexed,82,1.317,5.336
+plate4_HOP62_Vinblastine_(sulfate),HOP62,Vinblastine (sulfate),57,0.822,4.064
+plate14_HOP62_Vinblastine_(sulfate),HOP62,Vinblastine (sulfate),109,1.013,5.994
+plate14_HS-578T_Vinblastine_(sulfate),HS-578T,Vinblastine (sulfate),52,1.203,3.443
+plate4_HT-29_Raltitrexed,HT-29,Raltitrexed,50,0.24,2.665
+plate14_HT-29_Raltitrexed,HT-29,Raltitrexed,51,2.635,4.998
+plate14_HT-29_Vinblastine_(sulfate),HT-29,Vinblastine (sulfate),63,2.004,5.272
+plate6_HepG2/C3A_Raltitrexed,HepG2/C3A,Raltitrexed,50,-0.799,1.537
+plate14_HepG2/C3A_Vinblastine_(sulfate),HepG2/C3A,Vinblastine (sulfate),58,1.188,4.671
+plate14_J82_Raltitrexed,J82,Raltitrexed,57,1.946,4.635
+plate4_J82_Vinblastine_(sulfate),J82,Vinblastine (sulfate),50,1.868,4.766
+plate14_J82_Vinblastine_(sulfate),J82,Vinblastine (sulfate),65,1.589,5.287
+plate14_KATO_III_Raltitrexed,KATO III,Raltitrexed,52,1.363,3.954
+plate14_KATO_III_Vinblastine_(sulfate),KATO III,Vinblastine (sulfate),85,-0.095,4.527
+plate4_LOX-IMVI_Raltitrexed,LOX-IMVI,Raltitrexed,55,-0.196,2.858
+plate14_LS_180_Raltitrexed,LS 180,Raltitrexed,59,1.284,4.008
+plate14_LS_180_Vinblastine_(sulfate),LS 180,Vinblastine (sulfate),72,1.079,4.562
+plate14_LoVo_Adagrasib,LoVo,Adagrasib,59,0.713,4.024
+plate4_LoVo_Raltitrexed,LoVo,Raltitrexed,56,0.014,3.034
+plate6_LoVo_Raltitrexed,LoVo,Raltitrexed,66,-0.925,2.395
+plate14_LoVo_Raltitrexed,LoVo,Raltitrexed,90,1.11,5.523
+plate4_LoVo_Vinblastine_(sulfate),LoVo,Vinblastine (sulfate),74,-1.355,3.307
+plate14_LoVo_Vinblastine_(sulfate),LoVo,Vinblastine (sulfate),133,-0.322,5.21
+plate14_NCI-H23_Vinblastine_(sulfate),NCI-H23,Vinblastine (sulfate),57,1.364,4.356
+plate14_NCI-H460_Adagrasib,NCI-H460,Adagrasib,116,1.179,6.778
+plate4_NCI-H460_Almonertinib_(hydrochloride),NCI-H460,Almonertinib (hydrochloride),51,3.69,6.793
+plate4_NCI-H460_Raltitrexed,NCI-H460,Raltitrexed,96,1.004,6.186
+plate6_NCI-H460_Raltitrexed,NCI-H460,Raltitrexed,118,-0.223,4.669
+plate14_NCI-H460_Raltitrexed,NCI-H460,Raltitrexed,151,1.074,6.744
+plate4_NCI-H460_Vinblastine_(sulfate),NCI-H460,Vinblastine (sulfate),95,1.65,6.954
+plate14_NCI-H460_Vinblastine_(sulfate),NCI-H460,Vinblastine (sulfate),156,1.045,7.273
+plate14_NCI-H1573_Raltitrexed,NCI-H1573,Raltitrexed,53,2.318,4.728
+plate14_NCI-H1573_Vinblastine_(sulfate),NCI-H1573,Vinblastine (sulfate),87,1.367,5.683
+plate14_NCI-H1792_Vinblastine_(sulfate),NCI-H1792,Vinblastine (sulfate),58,1.256,4.219
+plate4_NCI-H2030_Raltitrexed,NCI-H2030,Raltitrexed,63,0.652,3.351
+plate6_NCI-H2030_Raltitrexed,NCI-H2030,Raltitrexed,53,-0.237,1.742
+plate14_NCI-H2030_Raltitrexed,NCI-H2030,Raltitrexed,59,2.42,5.01
+plate4_NCI-H2030_Vinblastine_(sulfate),NCI-H2030,Vinblastine (sulfate),56,0.314,3.202
+plate14_NCI-H2030_Vinblastine_(sulfate),NCI-H2030,Vinblastine (sulfate),82,3.067,6.499
+plate14_NCI-H2347_Raltitrexed,NCI-H2347,Raltitrexed,67,-0.532,1.857
+plate4_NCI-H2347_Vinblastine_(sulfate),NCI-H2347,Vinblastine (sulfate),54,0.23,2.408
+plate14_NCI-H2347_Vinblastine_(sulfate),NCI-H2347,Vinblastine (sulfate),85,-0.167,2.94
+plate14_PANC-1_Adagrasib,PANC-1,Adagrasib,60,1.786,4.641
+plate4_PANC-1_Raltitrexed,PANC-1,Raltitrexed,64,-0.775,2.486
+plate6_PANC-1_Raltitrexed,PANC-1,Raltitrexed,54,-0.465,1.59
+plate14_PANC-1_Raltitrexed,PANC-1,Raltitrexed,85,0.903,4.55
+plate4_PANC-1_Vinblastine_(sulfate),PANC-1,Vinblastine (sulfate),75,-0.643,3.411
+plate14_PANC-1_Vinblastine_(sulfate),PANC-1,Vinblastine (sulfate),103,0.398,4.773
+plate14_Panc_03.27_Vinblastine_(sulfate),Panc 03.27,Vinblastine (sulfate),50,0.566,3.377
+plate6_RKO_Raltitrexed,RKO,Raltitrexed,58,-2.241,0.603
+plate14_SNU-423_Raltitrexed,SNU-423,Raltitrexed,56,1.146,3.655
+plate4_SW480_Adagrasib,SW480,Adagrasib,53,2.775,5.892
+plate6_SW480_Adagrasib,SW480,Adagrasib,51,0.613,3.101
+plate14_SW480_Adagrasib,SW480,Adagrasib,93,1.562,6.463
+plate4_SW480_Almonertinib_(hydrochloride),SW480,Almonertinib (hydrochloride),68,2.425,6.761
+plate4_SW480_Raltitrexed,SW480,Raltitrexed,109,0.712,6.26
+plate6_SW480_Raltitrexed,SW480,Raltitrexed,116,-1.404,3.396
+plate14_SW480_Raltitrexed,SW480,Raltitrexed,121,1.464,6.863
+plate4_SW480_Vinblastine_(sulfate),SW480,Vinblastine (sulfate),124,0.504,6.515
+plate14_SW480_Vinblastine_(sulfate),SW480,Vinblastine (sulfate),186,1.555,7.765
+plate14_SW1417_Vinblastine_(sulfate),SW1417,Vinblastine (sulfate),64,1.741,4.941
+plate14_SW_900_Raltitrexed,SW 900,Raltitrexed,50,1.679,4.167
+plate14_SW_900_Vinblastine_(sulfate),SW 900,Vinblastine (sulfate),66,0.718,4.428
+plate14_hTERT-HPNE_Vinblastine_(sulfate),hTERT-HPNE,Vinblastine (sulfate),56,1.549,5.101

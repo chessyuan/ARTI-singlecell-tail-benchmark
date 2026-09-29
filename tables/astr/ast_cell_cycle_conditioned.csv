@@ -1,0 +1,200 @@
+cell_name,drug,n_cells,n_ast,g1_fraction,s_fraction,g2m_fraction,ast_g1_fraction,ast_s_fraction,ast_g2m_fraction
+A498,Adagrasib,78,4,0.205,0.295,0.5,0.25,0.25,0.5
+A498,Almonertinib (hydrochloride),46,2,0.174,0.261,0.565,0.5,0.0,0.5
+A498,Clonidine (hydrochloride),39,0,0.077,0.282,0.641,,,
+A498,Raltitrexed,141,8,0.22,0.291,0.489,0.625,0.125,0.25
+A498,Vinblastine (sulfate),181,9,0.238,0.249,0.514,0.444,0.0,0.556
+A549,Adagrasib,109,6,0.495,0.211,0.294,0.5,0.167,0.333
+A549,Almonertinib (hydrochloride),54,3,0.519,0.185,0.296,0.0,0.667,0.333
+A549,Clonidine (hydrochloride),39,0,0.385,0.154,0.462,,,
+A549,Raltitrexed,154,10,0.448,0.104,0.448,0.8,0.0,0.2
+A549,Vinblastine (sulfate),157,8,0.369,0.108,0.522,0.125,0.0,0.875
+A-172,Adagrasib,94,3,0.319,0.287,0.394,0.333,0.333,0.333
+A-172,Almonertinib (hydrochloride),49,2,0.286,0.265,0.449,0.5,0.0,0.5
+A-172,Clonidine (hydrochloride),43,0,0.326,0.233,0.442,,,
+A-172,Raltitrexed,156,9,0.224,0.231,0.545,0.222,0.333,0.444
+A-172,Vinblastine (sulfate),180,10,0.289,0.211,0.5,0.6,0.1,0.3
+A-427,Adagrasib,55,0,0.291,0.327,0.382,,,
+A-427,Almonertinib (hydrochloride),38,2,0.316,0.263,0.421,0.5,0.5,0.0
+A-427,Raltitrexed,92,4,0.217,0.272,0.511,0.75,0.0,0.25
+A-427,Vinblastine (sulfate),89,5,0.292,0.247,0.461,0.4,0.4,0.2
+AN3 CA,Raltitrexed,36,0,0.222,0.25,0.528,,,
+AN3 CA,Vinblastine (sulfate),32,0,0.125,0.062,0.812,,,
+AsPC-1,Adagrasib,68,2,0.721,0.132,0.147,0.5,0.5,0.0
+AsPC-1,Almonertinib (hydrochloride),45,2,0.711,0.067,0.222,0.5,0.0,0.5
+AsPC-1,Clonidine (hydrochloride),40,0,0.675,0.125,0.2,,,
+AsPC-1,Raltitrexed,162,9,0.685,0.148,0.167,0.222,0.333,0.444
+AsPC-1,Vinblastine (sulfate),188,11,0.707,0.133,0.16,0.455,0.273,0.273
+BT-474,Adagrasib,45,0,0.444,0.178,0.378,,,
+BT-474,Almonertinib (hydrochloride),33,2,0.333,0.091,0.576,1.0,0.0,0.0
+BT-474,Raltitrexed,103,7,0.427,0.194,0.379,0.429,0.0,0.571
+BT-474,Vinblastine (sulfate),82,5,0.415,0.244,0.341,0.8,0.2,0.0
+C32,Adagrasib,70,2,0.471,0.1,0.429,0.0,0.5,0.5
+C32,Almonertinib (hydrochloride),44,2,0.409,0.182,0.409,1.0,0.0,0.0
+C32,Clonidine (hydrochloride),39,0,0.385,0.231,0.385,,,
+C32,Raltitrexed,137,8,0.321,0.175,0.504,0.5,0.125,0.375
+C32,Vinblastine (sulfate),123,6,0.423,0.073,0.504,0.667,0.167,0.167
+C-33 A,Adagrasib,40,0,0.3,0.25,0.45,,,
+C-33 A,Almonertinib (hydrochloride),30,0,0.267,0.1,0.633,,,
+C-33 A,Clonidine (hydrochloride),26,0,0.231,0.192,0.577,,,
+C-33 A,Raltitrexed,96,6,0.26,0.26,0.479,0.667,0.333,0.0
+C-33 A,Vinblastine (sulfate),81,4,0.222,0.21,0.568,0.0,0.0,1.0
+CFPAC-1,Adagrasib,86,3,0.535,0.128,0.337,0.0,0.667,0.333
+CFPAC-1,Almonertinib (hydrochloride),48,2,0.562,0.042,0.396,0.0,0.0,1.0
+CFPAC-1,Clonidine (hydrochloride),31,0,0.419,0.065,0.516,,,
+CFPAC-1,Raltitrexed,127,7,0.409,0.11,0.48,0.571,0.0,0.429
+CFPAC-1,Vinblastine (sulfate),147,7,0.599,0.061,0.34,0.571,0.0,0.429
+CHP-212,Raltitrexed,28,0,0.5,0.107,0.393,,,
+COLO 205,Adagrasib,48,2,0.771,0.104,0.125,1.0,0.0,0.0
+COLO 205,Almonertinib (hydrochloride),40,2,0.725,0.1,0.175,0.5,0.5,0.0
+COLO 205,Raltitrexed,110,8,0.645,0.164,0.191,0.875,0.0,0.125
+COLO 205,Vinblastine (sulfate),82,5,0.744,0.085,0.171,0.6,0.0,0.4
+H4,Adagrasib,35,0,0.486,0.114,0.4,,,
+H4,Raltitrexed,56,0,0.304,0.214,0.482,,,
+H4,Vinblastine (sulfate),41,0,0.512,0.098,0.39,,,
+HCT15,Adagrasib,36,0,0.472,0.139,0.389,,,
+HCT15,Clonidine (hydrochloride),30,0,0.433,0.167,0.4,,,
+HCT15,Raltitrexed,88,4,0.284,0.205,0.511,0.5,0.0,0.5
+HCT15,Vinblastine (sulfate),70,2,0.429,0.057,0.514,1.0,0.0,0.0
+HEC-1-A,Adagrasib,93,3,0.14,0.204,0.656,0.0,0.667,0.333
+HEC-1-A,Almonertinib (hydrochloride),52,2,0.077,0.269,0.654,0.0,0.0,1.0
+HEC-1-A,Clonidine (hydrochloride),42,0,0.167,0.238,0.595,,,
+HEC-1-A,Raltitrexed,189,10,0.122,0.323,0.556,0.5,0.1,0.4
+HEC-1-A,Vinblastine (sulfate),187,11,0.112,0.176,0.711,0.364,0.182,0.455
+HOP62,Adagrasib,120,6,0.4,0.192,0.408,0.167,0.333,0.5
+HOP62,Almonertinib (hydrochloride),70,3,0.329,0.186,0.486,0.333,0.0,0.667
+HOP62,Clonidine (hydrochloride),57,2,0.351,0.211,0.439,0.0,0.0,1.0
+HOP62,Raltitrexed,175,10,0.383,0.194,0.423,0.3,0.2,0.5
+HOP62,Vinblastine (sulfate),181,9,0.293,0.199,0.508,0.0,0.111,0.889
+HS-578T,Adagrasib,49,0,0.469,0.224,0.306,,,
+HS-578T,Almonertinib (hydrochloride),28,0,0.607,0.071,0.321,,,
+HS-578T,Clonidine (hydrochloride),25,0,0.44,0.16,0.4,,,
+HS-578T,Raltitrexed,67,0,0.418,0.284,0.299,,,
+HS-578T,Vinblastine (sulfate),89,5,0.562,0.112,0.326,0.8,0.0,0.2
+HT-29,Adagrasib,67,2,0.627,0.045,0.328,0.5,0.0,0.5
+HT-29,Almonertinib (hydrochloride),29,0,0.621,0.103,0.276,,,
+HT-29,Clonidine (hydrochloride),34,0,0.559,0.059,0.382,,,
+HT-29,Raltitrexed,138,8,0.457,0.101,0.442,0.5,0.0,0.5
+HT-29,Vinblastine (sulfate),106,6,0.481,0.057,0.462,0.667,0.0,0.333
+HepG2/C3A,Adagrasib,48,0,0.667,0.146,0.188,,,
+HepG2/C3A,Almonertinib (hydrochloride),25,0,0.6,0.08,0.32,,,
+HepG2/C3A,Raltitrexed,115,7,0.67,0.148,0.183,1.0,0.0,0.0
+HepG2/C3A,Vinblastine (sulfate),114,6,0.605,0.114,0.281,0.5,0.0,0.5
+Hs 766T,Raltitrexed,54,0,0.519,0.093,0.389,,,
+Hs 766T,Vinblastine (sulfate),62,2,0.532,0.113,0.355,0.0,0.5,0.5
+J82,Adagrasib,90,4,0.122,0.378,0.5,0.25,0.5,0.25
+J82,Almonertinib (hydrochloride),43,2,0.07,0.419,0.512,0.0,0.0,1.0
+J82,Clonidine (hydrochloride),34,0,0.118,0.294,0.588,,,
+J82,Raltitrexed,137,8,0.161,0.314,0.526,0.375,0.0,0.625
+J82,Vinblastine (sulfate),126,7,0.143,0.31,0.548,0.143,0.143,0.714
+KATO III,Adagrasib,78,2,0.462,0.205,0.333,0.0,0.0,1.0
+KATO III,Almonertinib (hydrochloride),50,2,0.48,0.08,0.44,0.5,0.0,0.5
+KATO III,Clonidine (hydrochloride),32,0,0.406,0.219,0.375,,,
+KATO III,Raltitrexed,139,9,0.353,0.194,0.453,0.444,0.0,0.556
+KATO III,Vinblastine (sulfate),154,8,0.442,0.117,0.442,0.25,0.125,0.625
+LOX-IMVI,Adagrasib,63,2,0.397,0.159,0.444,0.5,0.0,0.5
+LOX-IMVI,Almonertinib (hydrochloride),46,2,0.457,0.217,0.326,0.5,0.0,0.5
+LOX-IMVI,Clonidine (hydrochloride),37,0,0.351,0.162,0.486,,,
+LOX-IMVI,Raltitrexed,151,9,0.384,0.205,0.411,0.333,0.111,0.556
+LOX-IMVI,Vinblastine (sulfate),99,5,0.414,0.141,0.444,0.0,0.0,1.0
+LS 180,Adagrasib,49,2,0.571,0.102,0.327,0.5,0.0,0.5
+LS 180,Almonertinib (hydrochloride),31,0,0.484,0.0,0.516,,,
+LS 180,Clonidine (hydrochloride),32,0,0.562,0.094,0.344,,,
+LS 180,Raltitrexed,120,7,0.375,0.208,0.417,0.571,0.0,0.429
+LS 180,Vinblastine (sulfate),120,6,0.458,0.167,0.375,0.333,0.167,0.5
+LoVo,Adagrasib,104,5,0.548,0.144,0.308,0.6,0.0,0.4
+LoVo,Almonertinib (hydrochloride),60,3,0.55,0.1,0.35,0.667,0.0,0.333
+LoVo,Clonidine (hydrochloride),49,0,0.551,0.122,0.327,,,
+LoVo,Raltitrexed,212,12,0.462,0.184,0.354,0.5,0.333,0.167
+LoVo,Vinblastine (sulfate),226,11,0.549,0.133,0.319,0.455,0.0,0.545
+MIA PaCa-2,Adagrasib,34,0,0.382,0.118,0.5,,,
+MIA PaCa-2,Almonertinib (hydrochloride),25,0,0.44,0.12,0.44,,,
+MIA PaCa-2,Raltitrexed,89,6,0.303,0.191,0.506,0.333,0.333,0.333
+MIA PaCa-2,Vinblastine (sulfate),73,4,0.329,0.192,0.479,0.25,0.0,0.75
+NCI-H23,Adagrasib,48,2,0.396,0.146,0.458,0.0,0.0,1.0
+NCI-H23,Almonertinib (hydrochloride),45,2,0.333,0.244,0.422,0.0,0.0,1.0
+NCI-H23,Clonidine (hydrochloride),33,0,0.333,0.091,0.576,,,
+NCI-H23,Raltitrexed,109,8,0.404,0.202,0.394,0.5,0.0,0.5
+NCI-H23,Vinblastine (sulfate),106,5,0.368,0.189,0.443,0.4,0.2,0.4
+NCI-H460,Adagrasib,210,12,0.543,0.09,0.367,0.333,0.083,0.583
+NCI-H460,Almonertinib (hydrochloride),77,5,0.558,0.143,0.299,0.4,0.0,0.6
+NCI-H460,Clonidine (hydrochloride),83,4,0.398,0.084,0.518,0.25,0.0,0.75
+NCI-H460,Raltitrexed,365,19,0.548,0.096,0.356,0.579,0.158,0.263
+NCI-H460,Vinblastine (sulfate),285,15,0.547,0.091,0.361,0.067,0.2,0.733
+NCI-H1573,Adagrasib,60,2,0.617,0.067,0.317,0.0,0.0,1.0
+NCI-H1573,Almonertinib (hydrochloride),38,2,0.632,0.105,0.263,0.0,0.5,0.5
+NCI-H1573,Clonidine (hydrochloride),30,0,0.733,0.033,0.233,,,
+NCI-H1573,Raltitrexed,126,7,0.571,0.119,0.31,0.714,0.0,0.286
+NCI-H1573,Vinblastine (sulfate),156,8,0.577,0.115,0.308,0.375,0.125,0.5
+NCI-H1792,Adagrasib,47,0,0.638,0.149,0.213,,,
+NCI-H1792,Almonertinib (hydrochloride),29,0,0.69,0.069,0.241,,,
+NCI-H1792,Clonidine (hydrochloride),25,0,0.6,0.04,0.36,,,
+NCI-H1792,Raltitrexed,101,7,0.653,0.079,0.267,0.714,0.143,0.143
+NCI-H1792,Vinblastine (sulfate),105,5,0.61,0.105,0.286,0.6,0.0,0.4
+NCI-H2030,Adagrasib,63,2,0.381,0.143,0.476,1.0,0.0,0.0
+NCI-H2030,Almonertinib (hydrochloride),43,2,0.326,0.116,0.558,0.0,0.0,1.0
+NCI-H2030,Clonidine (hydrochloride),35,0,0.257,0.171,0.571,,,
+NCI-H2030,Raltitrexed,175,10,0.24,0.206,0.554,0.4,0.1,0.5
+NCI-H2030,Vinblastine (sulfate),150,8,0.347,0.127,0.527,0.5,0.125,0.375
+NCI-H2347,Adagrasib,63,2,0.238,0.127,0.635,1.0,0.0,0.0
+NCI-H2347,Almonertinib (hydrochloride),51,2,0.216,0.235,0.549,0.5,0.5,0.0
+NCI-H2347,Clonidine (hydrochloride),30,0,0.367,0.067,0.567,,,
+NCI-H2347,Raltitrexed,145,9,0.29,0.124,0.586,0.556,0.111,0.333
+NCI-H2347,Vinblastine (sulfate),162,8,0.315,0.117,0.568,0.5,0.25,0.25
+PANC-1,Adagrasib,120,7,0.208,0.192,0.6,0.429,0.143,0.429
+PANC-1,Almonertinib (hydrochloride),49,2,0.265,0.163,0.571,0.0,0.0,1.0
+PANC-1,Clonidine (hydrochloride),48,0,0.333,0.104,0.562,,,
+PANC-1,Raltitrexed,203,12,0.256,0.158,0.586,0.5,0.0,0.5
+PANC-1,Vinblastine (sulfate),186,10,0.328,0.161,0.511,0.3,0.0,0.7
+Panc 03.27,Adagrasib,49,2,0.49,0.122,0.388,0.5,0.0,0.5
+Panc 03.27,Almonertinib (hydrochloride),33,0,0.576,0.0,0.424,,,
+Panc 03.27,Clonidine (hydrochloride),28,0,0.321,0.214,0.464,,,
+Panc 03.27,Raltitrexed,92,6,0.543,0.076,0.38,0.833,0.0,0.167
+Panc 03.27,Vinblastine (sulfate),96,5,0.49,0.104,0.406,0.6,0.0,0.4
+RKO,Adagrasib,66,2,0.424,0.182,0.394,0.5,0.5,0.0
+RKO,Almonertinib (hydrochloride),53,2,0.623,0.094,0.283,0.5,0.0,0.5
+RKO,Clonidine (hydrochloride),34,0,0.412,0.324,0.265,,,
+RKO,Raltitrexed,129,7,0.403,0.225,0.372,0.714,0.143,0.143
+RKO,Vinblastine (sulfate),98,5,0.418,0.173,0.408,0.0,0.6,0.4
+RPMI-7951,Adagrasib,42,0,0.571,0.119,0.31,,,
+RPMI-7951,Clonidine (hydrochloride),25,0,0.76,0.0,0.24,,,
+RPMI-7951,Raltitrexed,105,5,0.59,0.143,0.267,0.4,0.2,0.4
+RPMI-7951,Vinblastine (sulfate),80,4,0.7,0.138,0.163,0.5,0.0,0.5
+SHP-77,Adagrasib,28,0,0.214,0.464,0.321,,,
+SHP-77,Almonertinib (hydrochloride),29,0,0.586,0.241,0.172,,,
+SHP-77,Raltitrexed,76,4,0.303,0.329,0.368,0.25,0.5,0.25
+SHP-77,Vinblastine (sulfate),68,4,0.382,0.235,0.382,0.25,0.25,0.5
+SK-MEL-2,Adagrasib,33,0,0.455,0.061,0.485,,,
+SK-MEL-2,Almonertinib (hydrochloride),31,0,0.355,0.065,0.581,,,
+SK-MEL-2,Raltitrexed,79,4,0.405,0.127,0.468,0.75,0.0,0.25
+SK-MEL-2,Vinblastine (sulfate),100,6,0.47,0.11,0.42,0.667,0.167,0.167
+SNU-1,Raltitrexed,52,2,0.404,0.173,0.423,1.0,0.0,0.0
+SNU-1,Vinblastine (sulfate),34,0,0.647,0.118,0.235,,,
+SNU-423,Adagrasib,50,0,0.42,0.26,0.32,,,
+SNU-423,Almonertinib (hydrochloride),25,0,0.52,0.16,0.32,,,
+SNU-423,Clonidine (hydrochloride),34,0,0.529,0.147,0.324,,,
+SNU-423,Raltitrexed,117,7,0.462,0.154,0.385,0.429,0.143,0.429
+SNU-423,Vinblastine (sulfate),93,5,0.43,0.097,0.473,0.6,0.2,0.2
+SW48,Adagrasib,28,0,0.321,0.214,0.464,,,
+SW48,Raltitrexed,67,4,0.343,0.149,0.507,0.25,0.25,0.5
+SW48,Vinblastine (sulfate),91,5,0.363,0.11,0.527,0.4,0.4,0.2
+SW480,Adagrasib,197,11,0.386,0.132,0.482,0.545,0.091,0.364
+SW480,Almonertinib (hydrochloride),109,7,0.376,0.174,0.45,0.429,0.143,0.429
+SW480,Clonidine (hydrochloride),103,6,0.379,0.184,0.437,0.167,0.167,0.667
+SW480,Raltitrexed,346,19,0.249,0.292,0.46,0.316,0.158,0.526
+SW480,Vinblastine (sulfate),345,19,0.319,0.203,0.478,0.158,0.263,0.579
+SW1417,Adagrasib,71,2,0.352,0.085,0.563,0.5,0.0,0.5
+SW1417,Almonertinib (hydrochloride),35,2,0.486,0.057,0.457,1.0,0.0,0.0
+SW1417,Clonidine (hydrochloride),32,0,0.344,0.188,0.469,,,
+SW1417,Raltitrexed,130,9,0.269,0.169,0.562,0.778,0.0,0.222
+SW1417,Vinblastine (sulfate),128,7,0.344,0.141,0.516,0.143,0.0,0.857
+SW 900,Adagrasib,57,2,0.509,0.088,0.404,0.5,0.0,0.5
+SW 900,Almonertinib (hydrochloride),32,0,0.438,0.094,0.469,,,
+SW 900,Clonidine (hydrochloride),27,0,0.481,0.074,0.444,,,
+SW 900,Raltitrexed,123,8,0.504,0.114,0.382,0.375,0.0,0.625
+SW 900,Vinblastine (sulfate),102,6,0.49,0.157,0.353,0.333,0.5,0.167
+hTERT-HPNE,Adagrasib,62,2,0.645,0.129,0.226,0.5,0.0,0.5
+hTERT-HPNE,Almonertinib (hydrochloride),32,0,0.594,0.062,0.344,,,
+hTERT-HPNE,Clonidine (hydrochloride),30,0,0.633,0.1,0.267,,,
+hTERT-HPNE,Raltitrexed,111,7,0.559,0.099,0.342,0.857,0.0,0.143
+hTERT-HPNE,Vinblastine (sulfate),92,3,0.62,0.098,0.283,0.0,0.333,0.667

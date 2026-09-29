@@ -1,0 +1,4 @@
+claim,tested_doses,n_pairs,statistic,p_value,status
+Dose Sensitivity (High vs Low),0.05 uM vs 5.0 uM,133,paired t = +5.21,7.18e-07,SUPPORTED
+Decoupling from Bulk Mean Shift,0.05 uM vs 5.0 uM,133,Pearson r = -0.1007,0.249,SUPPORTED
+Adaptive Heterogeneity Window (Peak at low dose),2 doses only,15,ARTI_low > ARTI_high,N/A,RETRACTED_INSUFFICIENT_DOSES

@@ -1,0 +1,8 @@
+module,mean_ast,mean_dominant,delta_mean,mann_whitney_pval
+Apoptosis,0.1744,0.1029,0.0715,0.14684
+ISR,0.4904,0.3556,0.1348,0.17743
+Heat_Shock,0.3694,0.5072,-0.1378,0.44911
+Oxidative_Stress,0.4594,0.2626,0.1969,0.08648
+Immediate_Early,0.6223,0.2771,0.3452,0.01425
+Mitochondrial,6.5777,6.3582,0.2195,0.80977
+composite_generic_stress,0.1736,-0.2043,0.3779,0.09361

@@ -1,0 +1,6 @@
+Negative_Control_Model,Mean_ARTI,Std_ARTI,Fraction_Significant_Tail,False_Positive_Rate
+True Perturbed (Real ARTI),0.7242,0.8862,0.74,N/A (True Signal)
+DMSO Pseudo-Treatment (Split-half),0.0879,1.1823,0.42,0.000 (0/50)
+Gene Label Permutation,1.2841,1.0538,0.86,"0.000 (0/50, tail collapses)"
+Latent-Dimension Permutation,0.8267,0.8309,0.8,0.020 (1/50)
+Control-Condition Mismatched Baseline,-0.3707,1.6534,0.38,0.060 (Cross-context baseline noise)

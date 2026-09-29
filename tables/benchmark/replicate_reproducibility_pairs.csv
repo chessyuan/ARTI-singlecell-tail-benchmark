@@ -1,0 +1,169 @@
+cell_name,drug,rep1,rep2,plate_pair
+A-172,Raltitrexed,1.3668,0.719,plate4_vs_plate14
+A-172,Vinblastine (sulfate),0.3369,0.1904,plate4_vs_plate14
+A-427,Vinblastine (sulfate),-0.8397,0.9018,plate4_vs_plate14
+A498,Adagrasib,1.6109,1.9038,plate4_vs_plate14
+A498,Raltitrexed,1.0231,0.6635,plate4_vs_plate14
+A498,Vinblastine (sulfate),-0.2582,0.5293,plate4_vs_plate14
+A549,Adagrasib,2.8387,1.3431,plate4_vs_plate14
+A549,Raltitrexed,0.9875,0.6012,plate4_vs_plate14
+A549,Vinblastine (sulfate),1.2279,0.8091,plate4_vs_plate14
+AsPC-1,Raltitrexed,1.3657,0.4668,plate4_vs_plate14
+AsPC-1,Vinblastine (sulfate),-0.1926,0.0306,plate4_vs_plate14
+BT-474,Raltitrexed,0.2222,-0.1401,plate4_vs_plate14
+BT-474,Vinblastine (sulfate),1.6138,0.2995,plate4_vs_plate14
+C-33 A,Raltitrexed,1.4855,2.355,plate4_vs_plate14
+C-33 A,Vinblastine (sulfate),1.5697,1.661,plate4_vs_plate14
+C32,Raltitrexed,0.9792,1.1252,plate4_vs_plate14
+C32,Vinblastine (sulfate),0.8351,0.6817,plate4_vs_plate14
+CFPAC-1,Raltitrexed,0.5848,0.4097,plate4_vs_plate14
+CFPAC-1,Vinblastine (sulfate),0.284,0.4561,plate4_vs_plate14
+COLO 205,Raltitrexed,-0.13,0.8521,plate4_vs_plate14
+COLO 205,Vinblastine (sulfate),-0.3458,1.12,plate4_vs_plate14
+HEC-1-A,Raltitrexed,0.1979,0.6332,plate4_vs_plate14
+HEC-1-A,Vinblastine (sulfate),0.6118,0.0285,plate4_vs_plate14
+HOP62,Raltitrexed,0.9097,0.6587,plate4_vs_plate14
+HOP62,Vinblastine (sulfate),0.4108,0.5068,plate4_vs_plate14
+HS-578T,Vinblastine (sulfate),1.2878,0.6016,plate4_vs_plate14
+HT-29,Raltitrexed,0.1197,1.3175,plate4_vs_plate14
+HT-29,Vinblastine (sulfate),1.8905,1.0022,plate4_vs_plate14
+HepG2/C3A,Raltitrexed,1.0286,1.4902,plate4_vs_plate14
+HepG2/C3A,Vinblastine (sulfate),-0.4366,0.5939,plate4_vs_plate14
+J82,Adagrasib,1.883,1.9338,plate4_vs_plate14
+J82,Raltitrexed,1.1912,0.9731,plate4_vs_plate14
+J82,Vinblastine (sulfate),0.934,0.7943,plate4_vs_plate14
+KATO III,Raltitrexed,0.4853,0.6811,plate4_vs_plate14
+KATO III,Vinblastine (sulfate),0.3841,-0.0476,plate4_vs_plate14
+LOX-IMVI,Raltitrexed,-0.0981,0.581,plate4_vs_plate14
+LOX-IMVI,Vinblastine (sulfate),0.7141,0.9757,plate4_vs_plate14
+LS 180,Raltitrexed,1.2057,0.6421,plate4_vs_plate14
+LS 180,Vinblastine (sulfate),0.3603,0.5392,plate4_vs_plate14
+LoVo,Adagrasib,1.3491,0.3563,plate4_vs_plate14
+LoVo,Raltitrexed,0.0069,0.5546,plate4_vs_plate14
+LoVo,Vinblastine (sulfate),-0.6778,-0.1611,plate4_vs_plate14
+MIA PaCa-2,Raltitrexed,0.5284,0.3044,plate4_vs_plate14
+MIA PaCa-2,Vinblastine (sulfate),1.2247,0.9784,plate4_vs_plate14
+NCI-H1573,Raltitrexed,0.1254,1.1589,plate4_vs_plate14
+NCI-H1573,Vinblastine (sulfate),-0.0616,0.6833,plate4_vs_plate14
+NCI-H1792,Raltitrexed,1.4238,0.741,plate4_vs_plate14
+NCI-H1792,Vinblastine (sulfate),0.621,0.6277,plate4_vs_plate14
+NCI-H2030,Raltitrexed,0.3263,1.21,plate4_vs_plate14
+NCI-H2030,Vinblastine (sulfate),0.157,1.5335,plate4_vs_plate14
+NCI-H23,Raltitrexed,0.9317,1.4811,plate4_vs_plate14
+NCI-H23,Vinblastine (sulfate),1.0695,0.682,plate4_vs_plate14
+NCI-H2347,Raltitrexed,0.713,-0.2662,plate4_vs_plate14
+NCI-H2347,Vinblastine (sulfate),0.115,-0.0836,plate4_vs_plate14
+NCI-H460,Adagrasib,1.4805,0.5898,plate4_vs_plate14
+NCI-H460,Raltitrexed,0.502,0.5371,plate4_vs_plate14
+NCI-H460,Vinblastine (sulfate),0.8248,0.5228,plate4_vs_plate14
+PANC-1,Adagrasib,1.0888,0.8927,plate4_vs_plate14
+PANC-1,Raltitrexed,-0.3873,0.4511,plate4_vs_plate14
+PANC-1,Vinblastine (sulfate),-0.3215,0.1988,plate4_vs_plate14
+Panc 03.27,Raltitrexed,-0.0454,2.0537,plate4_vs_plate14
+Panc 03.27,Vinblastine (sulfate),0.4043,0.2832,plate4_vs_plate14
+RKO,Raltitrexed,1.9741,1.9626,plate4_vs_plate14
+RKO,Vinblastine (sulfate),1.3374,0.932,plate4_vs_plate14
+RPMI-7951,Vinblastine (sulfate),-1.6548,0.1785,plate4_vs_plate14
+SHP-77,Vinblastine (sulfate),0.3613,1.1214,plate4_vs_plate14
+SK-MEL-2,Vinblastine (sulfate),0.18,-0.0705,plate4_vs_plate14
+SNU-423,Raltitrexed,0.449,0.573,plate4_vs_plate14
+SNU-423,Vinblastine (sulfate),0.7577,1.1825,plate4_vs_plate14
+SW 900,Raltitrexed,0.2155,0.8392,plate4_vs_plate14
+SW 900,Vinblastine (sulfate),0.5271,0.3588,plate4_vs_plate14
+SW1417,Raltitrexed,0.39,1.099,plate4_vs_plate14
+SW1417,Vinblastine (sulfate),-0.165,0.8705,plate4_vs_plate14
+SW48,Vinblastine (sulfate),-0.8308,0.7688,plate4_vs_plate14
+SW480,Adagrasib,1.3875,0.781,plate4_vs_plate14
+SW480,Clonidine (hydrochloride),2.6345,3.0847,plate4_vs_plate14
+SW480,Raltitrexed,0.3558,0.7321,plate4_vs_plate14
+SW480,Vinblastine (sulfate),0.2521,0.7774,plate4_vs_plate14
+hTERT-HPNE,Raltitrexed,-0.0481,2.0733,plate4_vs_plate14
+A-172,Raltitrexed,1.3668,0.0034,plate4_vs_plate6
+A498,Raltitrexed,1.0231,-0.2483,plate4_vs_plate6
+A549,Raltitrexed,0.9875,0.8361,plate4_vs_plate6
+AsPC-1,Raltitrexed,1.3657,-0.7596,plate4_vs_plate6
+AsPC-1,Vinblastine (sulfate),-0.1926,-0.2131,plate4_vs_plate6
+BT-474,Raltitrexed,0.2222,-0.8476,plate4_vs_plate6
+C-33 A,Raltitrexed,1.4855,-0.2675,plate4_vs_plate6
+C32,Raltitrexed,0.9792,-1.1933,plate4_vs_plate6
+CFPAC-1,Raltitrexed,0.5848,-0.0552,plate4_vs_plate6
+HEC-1-A,Raltitrexed,0.1979,-1.4834,plate4_vs_plate6
+HEC-1-A,Vinblastine (sulfate),0.6118,1.6734,plate4_vs_plate6
+HOP62,Raltitrexed,0.9097,-0.2006,plate4_vs_plate6
+HT-29,Raltitrexed,0.1197,-1.8255,plate4_vs_plate6
+HepG2/C3A,Raltitrexed,1.0286,-0.3994,plate4_vs_plate6
+J82,Raltitrexed,1.1912,0.4464,plate4_vs_plate6
+KATO III,Raltitrexed,0.4853,0.1287,plate4_vs_plate6
+LOX-IMVI,Raltitrexed,-0.0981,-0.6438,plate4_vs_plate6
+LS 180,Raltitrexed,1.2057,-1.8748,plate4_vs_plate6
+LoVo,Raltitrexed,0.0069,-0.4626,plate4_vs_plate6
+MIA PaCa-2,Raltitrexed,0.5284,-1.0337,plate4_vs_plate6
+NCI-H1573,Raltitrexed,0.1254,0.0211,plate4_vs_plate6
+NCI-H1792,Raltitrexed,1.4238,0.3702,plate4_vs_plate6
+NCI-H2030,Raltitrexed,0.3263,-0.1185,plate4_vs_plate6
+NCI-H23,Raltitrexed,0.9317,-0.4921,plate4_vs_plate6
+NCI-H2347,Raltitrexed,0.713,0.0405,plate4_vs_plate6
+NCI-H460,Adagrasib,1.4805,0.7735,plate4_vs_plate6
+NCI-H460,Almonertinib (hydrochloride),1.8447,3.1765,plate4_vs_plate6
+NCI-H460,Raltitrexed,0.502,-0.1117,plate4_vs_plate6
+NCI-H460,Vinblastine (sulfate),0.8248,2.188,plate4_vs_plate6
+PANC-1,Adagrasib,1.0888,1.3079,plate4_vs_plate6
+PANC-1,Raltitrexed,-0.3873,-0.2326,plate4_vs_plate6
+Panc 03.27,Raltitrexed,-0.0454,-2.785,plate4_vs_plate6
+RKO,Raltitrexed,1.9741,-1.1204,plate4_vs_plate6
+SNU-423,Raltitrexed,0.449,-0.7427,plate4_vs_plate6
+SW 900,Raltitrexed,0.2155,-1.4688,plate4_vs_plate6
+SW1417,Raltitrexed,0.39,-1.7676,plate4_vs_plate6
+SW480,Adagrasib,1.3875,0.3062,plate4_vs_plate6
+SW480,Almonertinib (hydrochloride),1.2126,1.0153,plate4_vs_plate6
+SW480,Clonidine (hydrochloride),2.6345,1.0334,plate4_vs_plate6
+SW480,Raltitrexed,0.3558,-0.7022,plate4_vs_plate6
+SW480,Vinblastine (sulfate),0.2521,2.5653,plate4_vs_plate6
+hTERT-HPNE,Raltitrexed,-0.0481,0.2442,plate4_vs_plate6
+A-172,Raltitrexed,0.0034,0.719,plate6_vs_plate14
+A-427,Raltitrexed,-0.7316,0.3222,plate6_vs_plate14
+A498,Raltitrexed,-0.2483,0.6635,plate6_vs_plate14
+A549,Raltitrexed,0.8361,0.6012,plate6_vs_plate14
+AsPC-1,Raltitrexed,-0.7596,0.4668,plate6_vs_plate14
+AsPC-1,Vinblastine (sulfate),-0.2131,0.0306,plate6_vs_plate14
+BT-474,Raltitrexed,-0.8476,-0.1401,plate6_vs_plate14
+C-33 A,Raltitrexed,-0.2675,2.355,plate6_vs_plate14
+C32,Raltitrexed,-1.1933,1.1252,plate6_vs_plate14
+CFPAC-1,Raltitrexed,-0.0552,0.4097,plate6_vs_plate14
+HCT15,Raltitrexed,-1.8522,2.4338,plate6_vs_plate14
+HEC-1-A,Raltitrexed,-1.4834,0.6332,plate6_vs_plate14
+HEC-1-A,Vinblastine (sulfate),1.6734,0.0285,plate6_vs_plate14
+HOP62,Adagrasib,1.3922,1.1145,plate6_vs_plate14
+HOP62,Raltitrexed,-0.2006,0.6587,plate6_vs_plate14
+HT-29,Raltitrexed,-1.8255,1.3175,plate6_vs_plate14
+HepG2/C3A,Raltitrexed,-0.3994,1.4902,plate6_vs_plate14
+J82,Raltitrexed,0.4464,0.9731,plate6_vs_plate14
+KATO III,Raltitrexed,0.1287,0.6811,plate6_vs_plate14
+LOX-IMVI,Raltitrexed,-0.6438,0.581,plate6_vs_plate14
+LS 180,Raltitrexed,-1.8748,0.6421,plate6_vs_plate14
+LoVo,Raltitrexed,-0.4626,0.5546,plate6_vs_plate14
+MIA PaCa-2,Raltitrexed,-1.0337,0.3044,plate6_vs_plate14
+NCI-H1573,Raltitrexed,0.0211,1.1589,plate6_vs_plate14
+NCI-H1792,Raltitrexed,0.3702,0.741,plate6_vs_plate14
+NCI-H2030,Raltitrexed,-0.1185,1.21,plate6_vs_plate14
+NCI-H23,Raltitrexed,-0.4921,1.4811,plate6_vs_plate14
+NCI-H2347,Raltitrexed,0.0405,-0.2662,plate6_vs_plate14
+NCI-H460,Adagrasib,0.7735,0.5898,plate6_vs_plate14
+NCI-H460,Clonidine (hydrochloride),1.6221,3.3852,plate6_vs_plate14
+NCI-H460,Raltitrexed,-0.1117,0.5371,plate6_vs_plate14
+NCI-H460,Vinblastine (sulfate),2.188,0.5228,plate6_vs_plate14
+PANC-1,Adagrasib,1.3079,0.8927,plate6_vs_plate14
+PANC-1,Raltitrexed,-0.2326,0.4511,plate6_vs_plate14
+Panc 03.27,Raltitrexed,-2.785,2.0537,plate6_vs_plate14
+RKO,Raltitrexed,-1.1204,1.9626,plate6_vs_plate14
+RPMI-7951,Raltitrexed,-0.2386,0.1656,plate6_vs_plate14
+SHP-77,Raltitrexed,-1.0907,0.0588,plate6_vs_plate14
+SK-MEL-2,Raltitrexed,-1.1266,0.6199,plate6_vs_plate14
+SNU-423,Raltitrexed,-0.7427,0.573,plate6_vs_plate14
+SW 900,Raltitrexed,-1.4688,0.8392,plate6_vs_plate14
+SW1417,Raltitrexed,-1.7676,1.099,plate6_vs_plate14
+SW480,Adagrasib,0.3062,0.781,plate6_vs_plate14
+SW480,Clonidine (hydrochloride),1.0334,3.0847,plate6_vs_plate14
+SW480,Raltitrexed,-0.7022,0.7321,plate6_vs_plate14
+SW480,Vinblastine (sulfate),2.5653,0.7774,plate6_vs_plate14
+hTERT-HPNE,Raltitrexed,0.2442,2.0733,plate6_vs_plate14

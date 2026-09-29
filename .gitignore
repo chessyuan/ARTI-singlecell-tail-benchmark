@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Caches and environments
+.env
+venv/
+ENV/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Large raw single-cell matrices and archives (quarantined from git repo)
+*.h5
+*.h5ad
+*.rds
+*.tar.gz
+data_raw/
+data_processed/*.h5ad

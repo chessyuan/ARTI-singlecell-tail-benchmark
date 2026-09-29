@@ -1,0 +1,11 @@
+definition_code,description,pearson_r_with_v1,spearman_rho_with_v1,replicate_r_plate4_vs_plate14
+arti_p90,10% Cutoff (p90 excess),0.7459,0.7179,0.0695
+arti_p95,5% Cutoff (p95 excess),0.6296,0.6233,0.1712
+arti_p975,2.5% Cutoff (p97.5 excess),0.5104,0.4757,0.2136
+arti_p99,1% Cutoff (p99 excess),0.4393,0.4164,0.2559
+arti_tail_mean_90,Top 10% Tail Mean Excess,0.6387,0.611,0.1464
+arti_tail_mean_95,Top 5% Tail Mean Excess,0.5114,0.4886,0.2015
+arti_tail_mean_975,Top 2.5% Tail Mean Excess,0.4519,0.4373,0.1991
+arti_tail_mean_99,Top 1% Tail Mean Excess,0.3409,0.3311,0.2036
+arti_iqr,Interquartile Range Excess,0.4688,0.4474,0.1614
+arti_mad,Median Absolute Dev Excess,0.5459,0.4784,0.0002

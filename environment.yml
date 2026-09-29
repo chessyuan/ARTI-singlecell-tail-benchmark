@@ -1,0 +1,21 @@
+name: arti_benchmark
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.13.5
+  - pip=25.0
+  - pip:
+      - anndata==0.13.4
+      - scanpy==1.10.4
+      - numpy==2.2.5
+      - scipy==1.18.1
+      - pandas==2.3.3
+      - scikit-learn==1.9.1
+      - statsmodels==0.14.4
+      - matplotlib==3.10.1
+      - seaborn==0.13.2
+      - openpyxl==3.1.5
+      - python-docx==1.1.2
+      - pypdf==5.3.1
