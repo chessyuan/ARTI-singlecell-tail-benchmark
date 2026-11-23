@@ -8,8 +8,7 @@
 Accompanying code and reproducible benchmarking pipeline for the manuscript:  
 **"Single-Cell Chemical Perturbation Distributions Exhibit a Reproducible Acute Response-Tail Dimension Decoupled from Population-Average Shifts"**  
 *Bioinformatics* (Oxford University Press), 2026.  
-Authors: **chessyuan (chessyuan) & the research team**, the institution.  
-Corresponding Author: `[redacted]`
+Project questions and reproducibility reports: please use GitHub Issues.
 
 ---
 
@@ -86,7 +85,6 @@ python code/audit/recompute_primary_statistics.py
 ```bibtex
 @article{Liu2026_ARTI,
   title={Single-Cell Chemical Perturbation Distributions Exhibit a Reproducible Acute Response-Tail Dimension Decoupled from Population-Average Shifts},
-  author={chessyuan and {the research team}},
   journal={Bioinformatics},
   year={2026},
   publisher={Oxford University Press},

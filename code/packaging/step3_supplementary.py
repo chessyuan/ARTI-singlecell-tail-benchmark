@@ -128,7 +128,7 @@ r.font.bold = True
 
 p_auth = doc.add_paragraph()
 p_auth.alignment = WD_ALIGN_PARAGRAPH.CENTER
-r = p_auth.add_run("chessyuan (chessyuan) & the research team\nthe academic department, the institution, Nanjing, Jiangsu, China\nCorresponding Author: [redacted]\n")
+r = p_auth.add_run("Author, affiliation, and contact details omitted from the public repository.\n")
 r.font.name = "Times New Roman"
 r.font.size = Pt(10.5)
 

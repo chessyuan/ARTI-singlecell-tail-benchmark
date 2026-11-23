@@ -108,9 +108,10 @@ print(f"Saved {full_docx} ({os.path.getsize(full_docx):,} bytes)")
 print("Creating Manuscript_blinded.docx...")
 doc_blind = docx.Document(full_docx)
 # Anonymize author info in first 10 paragraphs
+private_identifiers = [os.getenv("PRIVATE_AUTHOR_NAME", ""), os.getenv("PRIVATE_AFFILIATION", ""), os.getenv("PRIVATE_CONTACT_EMAIL", "")]
 for p in doc_blind.paragraphs[:15]:
     t = p.text
-    if "chessyuan" in t or "the institution" in t or "[redacted]" in t or "Working Group" in t:
+    if any(identifier and identifier in t for identifier in private_identifiers):
         p.text = "[Author details, institutional affiliations, and contact information removed for double-blind peer review]"
         p.runs[0].font.name = "Times New Roman"
         p.runs[0].font.size = Pt(11)

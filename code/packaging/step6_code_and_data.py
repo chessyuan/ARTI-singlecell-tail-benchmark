@@ -41,8 +41,8 @@ with open(os.path.join(gh_ready, ".gitignore"), "w", encoding="utf-8") as f:
 # 2. LICENSE (MIT)
 license_content = """MIT License
 
-Copyright (c) 2026 chessyuan & the research team
-the institution, Nanjing, Jiangsu, China
+Copyright (c) 2026 Repository maintainer & the research team
+Institutional affiliation withheld
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -121,8 +121,8 @@ readme_content = """# Acute Response Tail Index (ARTI): Single-Cell Chemical Per
 Accompanying code and reproducible benchmarking pipeline for the manuscript:  
 **"Single-Cell Chemical Perturbation Distributions Exhibit a Reproducible Acute Response-Tail Dimension Decoupled from Population-Average Shifts"**  
 *Bioinformatics* (Oxford University Press), 2026.  
-Authors: **chessyuan (chessyuan) & the research team**, the institution.  
-Corresponding Author: `[redacted]`
+Authors: **Repository maintainer & the research team**, the institution.
+Corresponding Author: `Contact via GitHub Issues`
 
 ---
 
@@ -199,7 +199,7 @@ python code/audit/recompute_primary_statistics.py
 ```bibtex
 @article{Liu2026_ARTI,
   title={Single-Cell Chemical Perturbation Distributions Exhibit a Reproducible Acute Response-Tail Dimension Decoupled from Population-Average Shifts},
-  author={chessyuan and {the research team}},
+  author={Repository maintainer and {the research team}},
   journal={Bioinformatics},
   year={2026},
   publisher={Oxford University Press},
@@ -255,13 +255,13 @@ zenodo_metadata = {
     "description": "Reproducible code, benchmark data matrices, and verification pipelines for the manuscript 'Single-Cell Chemical Perturbation Distributions Exhibit a Reproducible Acute Response-Tail Dimension Decoupled from Population-Average Shifts', submitted to Bioinformatics (Oxford University Press).",
     "creators": [
         {
-            "name": "chessyuan",
-            "affiliation": "the academic department, the institution, Nanjing, Jiangsu, China",
+            "name": "Repository maintainer",
+            "affiliation": "Institutional affiliation withheld",
             "orcid": "0009-0000-0000-0000"
         },
         {
             "name": "the research team",
-            "affiliation": "the institution, Nanjing, Jiangsu, China"
+            "affiliation": "Institutional affiliation withheld"
         }
     ],
     "keywords": [
@@ -313,7 +313,7 @@ git push -u origin main --tags
 4. Copy the metadata from `SUBMISSION_PACKAGE/06_Code_and_Data/ZENODO_UPLOAD_READY/zenodo.json` into the upload form:
    - **Resource type:** Software
    - **Title:** ARTI: Acute Response Tail Index - Single-Cell Chemical Perturbation Distribution Benchmark
-   - **Authors:** chessyuan & the research team
+   - **Authors:** Repository maintainer & the research team
    - **License:** Open Access (MIT)
 5. Click **Publish** to mint the permanent DOI: `10.5281/zenodo.14920265`.
 """

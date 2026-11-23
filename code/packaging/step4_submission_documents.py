@@ -100,9 +100,9 @@ add_p(doc2, "Bioinformatics (Oxford University Press)", bold_prefix="Target Jour
 add_p(doc2, "Original Paper (Format-Free Initial Submission)", bold_prefix="Article Category: ")
 
 add_heading(doc2, "Authors & Affiliations", 1)
-add_p(doc2, "chessyuan (chessyuan) 1,* , the research team 1", bold_prefix="Authors: ")
-add_p(doc2, "1 the academic department, the institution, [address redacted], [location redacted]")
-add_p(doc2, "[redacted]", bold_prefix="* Corresponding Author Email: ")
+add_p(doc2, "Repository maintainer 1,* , the research team 1", bold_prefix="Authors: ")
+add_p(doc2, "1 Institutional affiliation withheld")
+add_p(doc2, "Contact via GitHub Issues", bold_prefix="* Corresponding Author Email: ")
 
 add_heading(doc2, "Word & Item Counts", 1)
 add_p(doc2, "225 words (Structured: Motivation, Results, Availability & Implementation)", bold_prefix="Abstract Word Count: ")
@@ -129,18 +129,18 @@ add_title(doc3, "Author Contributions Statement (CRediT Taxonomy)")
 add_p(doc3, "Single-Cell Chemical Perturbation Distributions Exhibit a Reproducible Acute Response-Tail Dimension Decoupled from Population-Average Shifts", italic_prefix="Manuscript: ")
 
 credit_items = [
-    ("Conceptualization", "chessyuan (Formulation and evolution of overarching research goals, identification of the acute response-tail hypothesis, definition of ARTI mathematical formulation, and conceptualization of the persister falsification benchmark)."),
-    ("Methodology", "chessyuan (Development and design of statistical methodology, including within-condition latent space dispersion metrics, comparator benchmarking protocols [C0–C5], multivariate OLS regression modeling, and non-parametric two-sample projection testing)."),
-    ("Software", "chessyuan, the research team (Programming, software development, pipeline automation, implementation of clean-room verification scripts, and execution of deterministic reproduction workflows)."),
-    ("Validation", "chessyuan (Verification of replication pipelines, dual-pipeline statistical recomputation, null distribution permutations, repeated downsampling sensitivity checks, and independent code auditing)."),
-    ("Formal Analysis", "chessyuan (Application of statistical, mathematical, and computational techniques to synthesize study data, including Type II ANOVA variance partitioning, intraclass correlation ICC(2,1) estimation, and Benjamini-Hochberg FDR multiplicity corrections)."),
-    ("Investigation", "chessyuan, the research team (Conducting the research and investigation process, specifically data curation of Tahoe-100M, SciPlex2, GSE275199, and GSE150392 repositories)."),
-    ("Data Curation", "chessyuan, the research team (Management activities to annotate, clean, and maintain research data, including construction of DATA_MANIFEST.csv and RESULTS_LEDGER.csv)."),
-    ("Writing – Original Draft", "chessyuan (Creation and presentation of the published work, specifically writing the initial draft, compiling results, and drafting discussion sections)."),
-    ("Writing – Review & Editing", "chessyuan, the research team (Critical review, commentary, and revision of the manuscript text, figure legends, and supplementary materials)."),
-    ("Visualization", "chessyuan (Preparation, creation, and presentation of the published work, specifically data visualization, figure design, and multi-panel alignment)."),
-    ("Supervision", "chessyuan (Oversight and leadership responsibility for the research activity planning and execution)."),
-    ("Project Administration", "chessyuan (Management and coordination responsibility for the research activity planning and execution)."),
+    ("Conceptualization", "Repository maintainer (Formulation and evolution of overarching research goals, identification of the acute response-tail hypothesis, definition of ARTI mathematical formulation, and conceptualization of the persister falsification benchmark)."),
+    ("Methodology", "Repository maintainer (Development and design of statistical methodology, including within-condition latent space dispersion metrics, comparator benchmarking protocols [C0–C5], multivariate OLS regression modeling, and non-parametric two-sample projection testing)."),
+    ("Software", "Repository maintainer, the research team (Programming, software development, pipeline automation, implementation of clean-room verification scripts, and execution of deterministic reproduction workflows)."),
+    ("Validation", "Repository maintainer (Verification of replication pipelines, dual-pipeline statistical recomputation, null distribution permutations, repeated downsampling sensitivity checks, and independent code auditing)."),
+    ("Formal Analysis", "Repository maintainer (Application of statistical, mathematical, and computational techniques to synthesize study data, including Type II ANOVA variance partitioning, intraclass correlation ICC(2,1) estimation, and Benjamini-Hochberg FDR multiplicity corrections)."),
+    ("Investigation", "Repository maintainer, the research team (Conducting the research and investigation process, specifically data curation of Tahoe-100M, SciPlex2, GSE275199, and GSE150392 repositories)."),
+    ("Data Curation", "Repository maintainer, the research team (Management activities to annotate, clean, and maintain research data, including construction of DATA_MANIFEST.csv and RESULTS_LEDGER.csv)."),
+    ("Writing – Original Draft", "Repository maintainer (Creation and presentation of the published work, specifically writing the initial draft, compiling results, and drafting discussion sections)."),
+    ("Writing – Review & Editing", "Repository maintainer, the research team (Critical review, commentary, and revision of the manuscript text, figure legends, and supplementary materials)."),
+    ("Visualization", "Repository maintainer (Preparation, creation, and presentation of the published work, specifically data visualization, figure design, and multi-panel alignment)."),
+    ("Supervision", "Repository maintainer (Oversight and leadership responsibility for the research activity planning and execution)."),
+    ("Project Administration", "Repository maintainer (Management and coordination responsibility for the research activity planning and execution)."),
     ("Funding Acquisition", "Not applicable (No external commercial or targeted grant funding received; institutional compute resources utilized).")
 ]
 
@@ -213,7 +213,7 @@ doc8.save(os.path.join(dst_doc_dir, "Ethics_Statement.docx"))
 print("Generating Funding_Statement.docx...")
 doc9 = create_styled_doc()
 add_title(doc9, "Funding & Computing Support Statement")
-add_p(doc9, "The authors declare that no external commercial, pharmaceutical, or targeted research grant funding was received for the conception, design, analysis, or publication of this study. Computational hardware and infrastructure resources were provided by the the relevant department and the academic department at the institution. The study was conducted independently without sponsor intervention.")
+add_p(doc9, "The authors declare that no external commercial, pharmaceutical, or targeted research grant funding was received for the conception, design, analysis, or publication of this study. Computational hardware and infrastructure resources were provided by the the relevant department and the relevant academic departments. The study was conducted independently without sponsor intervention.")
 doc9.save(os.path.join(dst_doc_dir, "Funding_Statement.docx"))
 
 # 10. Submission_Statements.docx

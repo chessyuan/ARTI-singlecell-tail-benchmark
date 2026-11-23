@@ -65,7 +65,7 @@ r_t.font.bold = True
 
 sub_p = doc.add_paragraph()
 sub_p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-r_s = sub_p.add_run("Bioinformatics — Original Paper Submission\nSingle-Cell Chemical Perturbation Distributions Exhibit a Reproducible Acute Response-Tail Dimension Decoupled from Population-Average Shifts\nchessyuan et al., the institution\n")
+r_s = sub_p.add_run("Bioinformatics — Original Paper Submission\nSingle-Cell Chemical Perturbation Distributions Exhibit a Reproducible Acute Response-Tail Dimension Decoupled from Population-Average Shifts\nAuthor details omitted from the public repository\n")
 r_s.font.name = "Times New Roman"
 r_s.font.size = Pt(11)
 r_s.font.italic = True
